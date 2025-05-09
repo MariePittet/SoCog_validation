@@ -8,9 +8,9 @@ The code features:
 - diagnostic accuracy (sensitivity/specificity, AUC)
 - convergent validity (correlational methods)
 - test-retest reliability (correlational methods)
-- veridicality analysis (linear modelling, prediction of a questionnaire of daily functioning scores, fun visualizaiton)
+- veridicality analysis (linear modelling, prediction of a questionnaire of daily functioning scores, fun visualization)
 - Covariate analysis (verifying the influence of other neuropsychological scores on social cognition, ANCOVA)
 - Item-Response Theory (dimensionality analyses, Rasch modelling, some playing aroung with polytomous models)
 
 
-Data is not available due its sensitive nature (medical data). It may be available at publication. 
+Data is not available due its sensitive nature (medical data). It may be made available at publication. 
