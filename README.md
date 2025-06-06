@@ -13,4 +13,4 @@ The code features:
 - Item-Response Theory (dimensionality analyses, Rasch modelling, some playing aroung with polytomous models)
 
 
-Data is not available due its sensitive nature (medical data). It may be made available at publication. 
+Data is not available due its sensitive nature (medical data). It may be made available upon publication. 
